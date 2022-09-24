@@ -1,4 +1,4 @@
-# rnm_graphql
+# Flutter- Bloc -GraphQL
 
 A Flutter project that uses Bloc to Fetch Rick & Morty characters using GraphQL.
 
